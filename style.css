@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+border: 0px;
+padding: 0;
+background-color: rgb(11, 52, 77);
+}
+
+.div1 {
+
+border: 0px;
+background-color: rgb(2, 108, 170);
+margin-top: 0;
+height: auto;
+}
+head {
+    margin-bottom: 0;
+}
+.div2 {
+
+    
+    background-color: rgb(11, 52, 77);
+    height: 600px;
+}
+.div3 {
+    background-color: crimson;
+    height: 300px;
+}
+h1 {
+ margin: 0;
+    color: white;
+}
+.ImgPerfil {
+
+    border: 0px;
+    border-radius: 120px;
+    align-items: flex-end;
+}
+#espaco {
+
+    width: 320px;
+}
+#prefacio {
+    font-size: 24pt;
+    color: azure;
+    padding-left: 8px;
+}
+.imagem {
+    margin: 0;
+}
