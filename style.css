@@ -36,8 +36,10 @@ h1 {
     align-items: flex-end;
 }
 #espaco {
-
+    background-color: white;
     width: 320px;
+    padding: 20px;
+    text-align: center;
 }
 #prefacio {
     font-size: 24pt;
@@ -46,4 +48,14 @@ h1 {
 }
 .imagem {
     margin: 0;
+}
+#sobre {
+    color: rgb(2, 108, 170);
+    font-size: 24pt;
+    align-self: center;
+    
+}
+#certificado {
+    width: 400px;
+    height: 320px;
 }
